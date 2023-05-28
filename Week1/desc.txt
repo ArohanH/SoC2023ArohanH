@@ -1,0 +1,15 @@
+Name-Arohan Hazarika
+Week 1 
+Code Implementation:
+*I have build a class Actions to create my actions(basically all the 5 bandits). So I have defined two functions inside my class, choose and update which are for choosing one of the bandits and updating the Q value based on a reward of the chosen bandit respectively.
+* self.mean is the Q value of an action.
+* self.N is the number of times the action Q has been chosen from the start till the current time step.
+*A function run_experiment is defined which implements epsilon greedy algorithm and the mean Reward method to calculate the Q value at a time step.
+*I have created a list actions which contains all the bandits and will be used for retrieving the objects of the Class Actions.
+*Then I have implemented the Epsilon Greedy Algorithm and Q value learning algorithm.
+*Finally using matplotlib I have plotted the data for different values of epsilon.
+*I have used several numpy functions to genrate random numbers, random rewards from a distribution, to choose the maximum value from an array etc.
+*I was facing some issues regarding the plots, hence I took help from my mentor and he refined the code where I was updating the Q value of an action.
+References:
+I used the geeks for geeks website to understand epsilon greedy algorithm and also look at a sample code to write such an algorithm, the link is attached below:
+https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/ 
