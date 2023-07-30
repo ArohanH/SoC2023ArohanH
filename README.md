@@ -23,4 +23,5 @@ Week 4,5,6:
   * Covered Neural Networks, how do they operate-Gradient Descent Algorithm, Cost Functions, Weights/Biases etc. Currently doing rest of the David Silver Lectures      where more complex algorithms like Actor-Critic etc are covered.
     
 Week 7,8(Final Task):
-  * Final Project to be done on making an agent learn play Street Fighter 2. 
+  * Final Project to be done on making an agent learn play Street Fighter 2.
+  * https://github.com/ArohanH/SoC-StreetFighter2 is the link for the final project submission. 
